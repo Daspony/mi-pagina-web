@@ -1,7 +1,7 @@
-# Sebastian Vallejos Diaz
+# Sebastián Vallejos Díaz
 
 
-Mi nombre es Sebastián Vallejos nací el 29 de agosto del año 2001 aproximadamente a las 15:30 en la comuna de Recoleta, actualmente intentando egresar de ingeniería biomédica UC.
+Mi nombre es Sebastián Vallejos nací el 29 de agosto del año 2001 aproximadamente a las 15:30 en la comuna de Recoleta, actualmente intentando egresar de Ingeniería Biomédica UC.
 
 * Ciberseguridad
 * Open Source
